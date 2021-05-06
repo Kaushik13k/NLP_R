@@ -1,0 +1,52 @@
+[
+    {
+      "de1": 2,
+      "de2": 1,
+      "person": "John"
+    },
+    {
+      "de1": 3, 
+      "de2": 4, 
+      "person": "John"
+    },
+    {
+      "de1": 4, 
+      "de2": 2, 
+      "person": null
+    },
+    {
+      "de1": 1,
+      "de2": 3, 
+      "person": "John"
+    },
+    {
+      "de1": 2, 
+      "de2": 5, 
+      "person": "John"
+    },
+    {
+      "de1": 3, 
+      "de2": 4, 
+      "person": "Kim"
+    },
+    {
+      "de1": 5,
+      "de2": null,
+      "person": "Kim"
+    },
+    {
+      "de1": 6,
+      "de2": 2, 
+      "person": "Kim"
+    },
+    {
+      "de1": 5, 
+      "de2": 5, 
+      "person": "Kim"
+    },
+    {
+      "de1": 4,
+      "de2": 3,
+      "person": "Kim"
+    }
+]
